@@ -22,10 +22,10 @@ libraries for importing, manipulating and plotting data:
 The goal of this project is to better understand the boston airbnb listings markets, by stating and answering some general questions about
 supply and demand for accomodations . The questions are the following:
 
-a) Which are the most demanded seasons in boston?
-b) How much rises the prices in high season?
-c) Which are the most expensivest neighbourhoods?
-d) Which are the most demanded neighbourhoods?
+1. Which are the most demanded seasons in boston?
+2. How much rises the prices in high season?
+3. Which are the most expensivest neighbourhoods?
+4. Which are the most demanded neighbourhoods?
 
 ## File Descriptions <a name="files"></a>
 
