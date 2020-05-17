@@ -10,12 +10,12 @@
 
 To run the code properly you need to run it using Python versions 3.*. or superior. In addition you need to import the following 
 libraries for importing, manipulating and plotting data:
-a) numpy
-b) pandas
-c) matplotlib.pyplot
-d) seaborn
-e) os
-f) datetime
+1. numpy
+2. pandas
+3. matplotlib.pyplot
+4. seaborn
+5. os
+6. datetime
 
 ## Project Motivation<a name="motivation"></a>
 
