@@ -39,5 +39,5 @@ The analysis and findings can be find in the post available [here](https://www.e
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-First, my acknowledgements to Inside Airbnb for the good quality and clean data. You can find the data from Boston and other cities, besides other descriptive information at the following link [here](http://insideairbnb.com/get-the-data.html).
-Also to thank 2 articles that help me guide my analysis and from where i also reuse code: "Exploring Prices" from Aleksey Bilogur (link [here](https://www.kaggle.com/residentmario/exploring-prices)) and "Exploring & Machine Learning for Airbnb Listings in Toronto" by Susan Li (available [here](https://towardsdatascience.com/exploring-machine-learning-for-airbnb-listings-in-toronto-efdbdeba2644)).
+First, my acknowledgements to Inside Airbnb for the good quality and clean data, without these analysis could not be done. You can find the data from Boston and other cities, besides other descriptive information at the following link [here](http://insideairbnb.com/get-the-data.html).
+Also my gratitude to 2 articles that help me guide my analysis: "Exploring Prices" from Aleksey Bilogur (link [here](https://www.kaggle.com/residentmario/exploring-prices)) and "Exploring & Machine Learning for Airbnb Listings in Toronto" by Susan Li (available [here](https://towardsdatascience.com/exploring-machine-learning-for-airbnb-listings-in-toronto-efdbdeba2644)).
