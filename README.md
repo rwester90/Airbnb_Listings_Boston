@@ -8,7 +8,7 @@
 
 ## Installation<a name="installation"></a>
 
-To run the code properly you need to run it using Python versions 3.*. or superior. In addition you need to import the following 
+To run the code properly you need to run it using Python versions 3.0 or superior. In addition you need to import the following 
 libraries for importing, manipulating and plotting data:
 1. numpy
 2. pandas
@@ -16,11 +16,11 @@ libraries for importing, manipulating and plotting data:
 4. seaborn
 5. os
 6. datetime
+7. statistics
 
 ## Project Motivation<a name="motivation"></a>
 
-The goal of this project is to better understand the boston airbnb listings markets, by stating and answering some general questions about
-supply and demand for accomodations . The questions are the following:
+The goal of this project is to better understand the boston airbnb listings markets, by stating and answering some general questions about supply and demand for accomodations . The questions are the following:
 
 1. Which are the most demanded seasons in boston?
 2. How much rises the prices in high season?
@@ -34,7 +34,7 @@ These contains data about reviews from users, listings and calendar with availab
 
 ## Results <a name="results"></a>
 
-The analysis and findings can be find in the post available [here](https://www.emol.com/)
+The analysis and findings can be find in the post available [here](https://medium.com/@ricardo.wester/planning-to-visit-boston-these-tips-from-airbnb-data-will-get-you-the-most-of-your-budget-4e0f54121f0c)
 
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
