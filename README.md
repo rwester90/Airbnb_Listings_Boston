@@ -24,7 +24,7 @@ The goal of this project is to better understand the boston airbnb listings mark
 
 1. Which are the most demanded seasons in boston?
 2. How much rises the prices in high season?
-3. Which are the most expensivest neighbourhoods?
+3. Which are the most expensive neighbourhoods?
 4. Which are the most demanded neighbourhoods?
 
 ## File Descriptions <a name="files"></a>
